@@ -1,0 +1,22 @@
+body{
+    background-color: #FFFFFF;
+    display: block;
+    min-width: 100px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.head{
+    background-color: #C2185B;
+    padding: 0.2rem;
+    color: #FFFFFF;
+}
+.head__name{
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    font-weight: 100;
+}
